@@ -1,0 +1,20 @@
+{
+  "name": "gh-trigger-test-after-branch-creation-and-rebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Good Enough\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmvantunes/gh-trigger-test-after-branch-creation-and-rebase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmvantunes/gh-trigger-test-after-branch-creation-and-rebase/issues"
+  },
+  "homepage": "https://github.com/bmvantunes/gh-trigger-test-after-branch-creation-and-rebase#readme"
+}
