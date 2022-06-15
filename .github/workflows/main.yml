@@ -2,10 +2,7 @@ name: Main
 
 on:
   push:
-    branches:
-      - production
-      - staging
-      - main
+    branches: [production, staging, main]
 
 
 jobs:
